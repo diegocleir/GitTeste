@@ -1,2 +1,2 @@
 arquivo incluído na branch main
-asd
+incluido pelo vscode
